@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "ankurs-blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "description": "My blog for #learninginpublic",
+  "version": "1.0.0",
+  "author": "Ankur Kaushal <ankurkaushal@outlook.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/ankurkaushal/ankurs-blog/issues"
   },
   "dependencies": {
-    "gatsby": "^2.13.21",
+    "gatsby": "^2.21.21",
     "gatsby-image": "^2.2.6",
     "gatsby-plugin-feed": "^2.3.4",
     "gatsby-plugin-google-analytics": "^2.1.4",
@@ -22,7 +22,7 @@
     "gatsby-remark-prismjs": "^3.3.4",
     "gatsby-remark-responsive-iframe": "^2.2.4",
     "gatsby-remark-smartypants": "^2.1.2",
-    "gatsby-source-filesystem": "^2.1.5",
+    "gatsby-source-filesystem": "^2.3.1",
     "gatsby-transformer-remark": "^2.6.5",
     "gatsby-transformer-sharp": "^2.2.3",
     "prismjs": "^1.17.1",
@@ -38,15 +38,16 @@
   "devDependencies": {
     "prettier": "^1.18.2"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://ankurkaushal.com",
   "keywords": [
-    "gatsby"
+    "ankur kaushal",
+    "blog"
   ],
   "license": "MIT",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/ankurkaushal/ankurs-blog.git"
   },
   "scripts": {
     "build": "gatsby build",
